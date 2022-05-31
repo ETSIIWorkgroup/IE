@@ -1,0 +1,832 @@
+{
+    "businesses": [
+        {
+            "id": "7QIqhSCOYBFgXB0W8RCW0w",
+            "alias": "maría-trifulca-sevilla",
+            "name": "María Trifulca",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uFS9FQpizMeTuCqBlkejfA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mar%C3%ADa-trifulca-sevilla?adjust_creative=k2879mFN9gfjtT8M8xHW3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=k2879mFN9gfjtT8M8xHW3Q",
+            "review_count": 13,
+            "categories": [
+                {
+                    "alias": "tapas",
+                    "title": "Tapas Bars"
+                },
+                {
+                    "alias": "spanish",
+                    "title": "Spanish"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3856532745196,
+                "longitude": -6.00283497350475
+            },
+            "transactions": [],
+            "price": "€€€",
+            "location": {
+                "address1": "Puente de Triana, s/n",
+                "address2": "",
+                "address3": null,
+                "city": "Seville",
+                "zip_code": "41010",
+                "country": "ES",
+                "state": "SE",
+                "display_address": [
+                    "Puente de Triana, s/n",
+                    "41010 Seville",
+                    "Spain"
+                ]
+            },
+            "phone": "+34954330347",
+            "display_phone": "+34 954 33 03 47",
+            "distance": 670.5695026724372
+        },
+        {
+            "id": "KTXttaYPA5UAY9JXmVZ59Q",
+            "alias": "mario-sevilla",
+            "name": "Mario",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fEvALtrYOhqbNEAfM40jGA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mario-sevilla?adjust_creative=k2879mFN9gfjtT8M8xHW3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=k2879mFN9gfjtT8M8xHW3Q",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3861084,
+                "longitude": -5.9869399
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Calle Santa María La Blanca, 15",
+                "address2": "",
+                "address3": "",
+                "city": "Seville",
+                "zip_code": "41004",
+                "country": "ES",
+                "state": "SE",
+                "display_address": [
+                    "Calle Santa María La Blanca, 15",
+                    "41004 Seville",
+                    "Spain"
+                ]
+            },
+            "phone": "+34954416775",
+            "display_phone": "+34 954 41 67 75",
+            "distance": 912.5570880113352
+        },
+        {
+            "id": "QtxBF4rpruYkj1IC1tEuQQ",
+            "alias": "maria-soria-summers-sevilla",
+            "name": "Maria Soria Summers",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/maria-soria-summers-sevilla?adjust_creative=k2879mFN9gfjtT8M8xHW3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=k2879mFN9gfjtT8M8xHW3Q",
+            "review_count": 1,
+            "categories": [],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.3882688,
+                "longitude": -5.9714212
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Calle Muñoz Seca 12",
+                "address2": null,
+                "address3": null,
+                "city": "Seville",
+                "zip_code": "41007",
+                "country": "ES",
+                "state": "SE",
+                "display_address": [
+                    "Calle Muñoz Seca 12",
+                    "41007 Seville",
+                    "Spain"
+                ]
+            },
+            "phone": "+34607661622",
+            "display_phone": "+34 607 66 16 22",
+            "distance": 2285.8363169395866
+        },
+        {
+            "id": "pDRzv7JMReMebhFpiQDlLQ",
+            "alias": "casa-del-tesorero-sevilla",
+            "name": "Casa del Tesorero",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6WSlwsVHBkcMRrAHJ6fHdg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/casa-del-tesorero-sevilla?adjust_creative=k2879mFN9gfjtT8M8xHW3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=k2879mFN9gfjtT8M8xHW3Q",
+            "review_count": 30,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "spanish",
+                    "title": "Spanish"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.3835287,
+                "longitude": -5.9945043
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Calle Santander, 1",
+                "address2": "",
+                "address3": "",
+                "city": "Seville",
+                "zip_code": "41001",
+                "country": "ES",
+                "state": "SE",
+                "display_address": [
+                    "Calle Santander, 1",
+                    "41001 Seville",
+                    "Spain"
+                ]
+            },
+            "phone": "+34954503921",
+            "display_phone": "+34 954 50 39 21",
+            "distance": 188.56553456099448
+        },
+        {
+            "id": "oev3kfRt11-UbPCCh-oUcw",
+            "alias": "milonguitas-sevilla",
+            "name": "Milonguitas",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HSEN6mtRYKjWv4ztKb-bdw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/milonguitas-sevilla?adjust_creative=k2879mFN9gfjtT8M8xHW3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=k2879mFN9gfjtT8M8xHW3Q",
+            "review_count": 43,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "argentine",
+                    "title": "Argentine"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.38508273458,
+                "longitude": -5.99468
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Calle Tomas de Ibarra, 2",
+                "address2": "",
+                "address3": "",
+                "city": "Seville",
+                "zip_code": "41001",
+                "country": "ES",
+                "state": "SE",
+                "display_address": [
+                    "Calle Tomas de Ibarra, 2",
+                    "41001 Seville",
+                    "Spain"
+                ]
+            },
+            "phone": "+34954210954",
+            "display_phone": "+34 954 21 09 54",
+            "distance": 310.56086854210326
+        },
+        {
+            "id": "Yu5-_UJtcX1OfDjTyyHPag",
+            "alias": "la-azotea-sevilla-5",
+            "name": "La Azotea",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Q8Ui8UuSEkqu_uKvYd7RrA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/la-azotea-sevilla-5?adjust_creative=k2879mFN9gfjtT8M8xHW3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=k2879mFN9gfjtT8M8xHW3Q",
+            "review_count": 68,
+            "categories": [
+                {
+                    "alias": "spanish",
+                    "title": "Spanish"
+                },
+                {
+                    "alias": "tapas",
+                    "title": "Tapas Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3860121,
+                "longitude": -5.9913356
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Calle Mateos Gago, 8",
+                "address2": "",
+                "address3": "",
+                "city": "Seville",
+                "zip_code": "41004",
+                "country": "ES",
+                "state": "SE",
+                "display_address": [
+                    "Calle Mateos Gago, 8",
+                    "41004 Seville",
+                    "Spain"
+                ]
+            },
+            "phone": "+34954215878",
+            "display_phone": "+34 954 21 58 78",
+            "distance": 579.2791651976678
+        },
+        {
+            "id": "8MQY_3BpBm_99u8sUIgctg",
+            "alias": "la-raza-sevilla",
+            "name": "La Raza",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vIIsDXaUhndFZn0UU1GsfA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/la-raza-sevilla?adjust_creative=k2879mFN9gfjtT8M8xHW3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=k2879mFN9gfjtT8M8xHW3Q",
+            "review_count": 29,
+            "categories": [
+                {
+                    "alias": "spanish",
+                    "title": "Spanish"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 37.3782923,
+                "longitude": -5.9889443
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Avenida de Isabel La Católica, 2",
+                "address2": null,
+                "address3": null,
+                "city": "Seville",
+                "zip_code": "41013",
+                "country": "ES",
+                "state": "SE",
+                "display_address": [
+                    "Avenida de Isabel La Católica, 2",
+                    "41013 Seville",
+                    "Spain"
+                ]
+            },
+            "phone": "+34954232024",
+            "display_phone": "+34 954 23 20 24",
+            "distance": 735.7010328500526
+        },
+        {
+            "id": "onfnGBNOsEIDkIAky33P4Q",
+            "alias": "plato-plató-sevilla",
+            "name": "Plato Plató",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ekGEXgJTDkEucBl2xI3FLg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/plato-plat%C3%B3-sevilla?adjust_creative=k2879mFN9gfjtT8M8xHW3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=k2879mFN9gfjtT8M8xHW3Q",
+            "review_count": 33,
+            "categories": [
+                {
+                    "alias": "spanish",
+                    "title": "Spanish"
+                },
+                {
+                    "alias": "tapas",
+                    "title": "Tapas Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.3718384581372,
+                "longitude": -5.98442238222755
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Calle Progreso, 27",
+                "address2": "",
+                "address3": "",
+                "city": "Seville",
+                "zip_code": "41013",
+                "country": "ES",
+                "state": "SE",
+                "display_address": [
+                    "Calle Progreso, 27",
+                    "41013 Seville",
+                    "Spain"
+                ]
+            },
+            "phone": "+34955384450",
+            "display_phone": "+34 955 38 44 50",
+            "distance": 1591.0900093917837
+        },
+        {
+            "id": "RbCHd_7r33ybxdOIHMdt-w",
+            "alias": "churrería-maría-sevilla-2",
+            "name": "Churrería María",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/k2Cm5EngxXknbbd0cs3VlQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/churrer%C3%ADa-mar%C3%ADa-sevilla-2?adjust_creative=k2879mFN9gfjtT8M8xHW3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=k2879mFN9gfjtT8M8xHW3Q",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "chocolate",
+                    "title": "Chocolatiers & Shops"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3857498,
+                "longitude": -5.98701
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Calle Cano y Cueto, 7",
+                "address2": "",
+                "address3": "",
+                "city": "Seville",
+                "zip_code": "41004",
+                "country": "ES",
+                "state": "SE",
+                "display_address": [
+                    "Calle Cano y Cueto, 7",
+                    "41004 Seville",
+                    "Spain"
+                ]
+            },
+            "phone": "+34954412256",
+            "display_phone": "+34 954 41 22 56",
+            "distance": 892.5198043030175
+        },
+        {
+            "id": "Dyz3EOseG4bgci8yeIXrGg",
+            "alias": "el-rinconcillo-sevilla",
+            "name": "El Rinconcillo",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sdkTVI5JvFpYHIsXyZhfMA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/el-rinconcillo-sevilla?adjust_creative=k2879mFN9gfjtT8M8xHW3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=k2879mFN9gfjtT8M8xHW3Q",
+            "review_count": 146,
+            "categories": [
+                {
+                    "alias": "spanish",
+                    "title": "Spanish"
+                },
+                {
+                    "alias": "tapas",
+                    "title": "Tapas Bars"
+                },
+                {
+                    "alias": "andalusian",
+                    "title": "Andalusian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3935224,
+                "longitude": -5.98849899999996
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Calle Gerona, 40",
+                "address2": "",
+                "address3": "",
+                "city": "Seville",
+                "zip_code": "41003",
+                "country": "ES",
+                "state": "SE",
+                "display_address": [
+                    "Calle Gerona, 40",
+                    "41003 Seville",
+                    "Spain"
+                ]
+            },
+            "phone": "+34954223183",
+            "display_phone": "+34 954 22 31 83",
+            "distance": 1396.0075417176333
+        },
+        {
+            "id": "P_S0LyVnAyiNCD3aGWEiyw",
+            "alias": "bar-17-doña-maría-sevilla",
+            "name": "Bar 17 Doña María",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/unbKZzJy_qYHPCUak5QLNA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bar-17-do%C3%B1a-mar%C3%ADa-sevilla?adjust_creative=k2879mFN9gfjtT8M8xHW3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=k2879mFN9gfjtT8M8xHW3Q",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.386386,
+                "longitude": -5.991649
+            },
+            "transactions": [],
+            "price": "€€€",
+            "location": {
+                "address1": "Calle Don Remondo, 17",
+                "address2": null,
+                "address3": null,
+                "city": "Seville",
+                "zip_code": "41001",
+                "country": "ES",
+                "state": "SE",
+                "display_address": [
+                    "Calle Don Remondo, 17",
+                    "41001 Seville",
+                    "Spain"
+                ]
+            },
+            "phone": "+34954224990",
+            "display_phone": "+34 954 22 49 90",
+            "distance": 587.6778677550076
+        },
+        {
+            "id": "AseVlLNTSi9D1zNG8wUy1w",
+            "alias": "santa-maría-sevilla-3",
+            "name": "Santa María",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/33UxIbfRaXiJXW60KrYBvw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/santa-mar%C3%ADa-sevilla-3?adjust_creative=k2879mFN9gfjtT8M8xHW3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=k2879mFN9gfjtT8M8xHW3Q",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "tapas",
+                    "title": "Tapas Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3758698,
+                "longitude": -5.996635
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Calle Montecarmelo, 43",
+                "address2": "",
+                "address3": "",
+                "city": "Seville",
+                "zip_code": "41011",
+                "country": "ES",
+                "state": "SE",
+                "display_address": [
+                    "Calle Montecarmelo, 43",
+                    "41011 Seville",
+                    "Spain"
+                ]
+            },
+            "phone": "+34954271120",
+            "display_phone": "+34 954 27 11 20",
+            "distance": 749.39938644722
+        },
+        {
+            "id": "GWzNquf-A05eLtl6QiHXyQ",
+            "alias": "zoco-del-parque-maria-luisa-sevilla",
+            "name": "Zoco del Parque Maria Luisa",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wMPtgcVTxpdiwD9HhCDj_A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/zoco-del-parque-maria-luisa-sevilla?adjust_creative=k2879mFN9gfjtT8M8xHW3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=k2879mFN9gfjtT8M8xHW3Q",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "fleamarkets",
+                    "title": "Flea Markets"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.371781,
+                "longitude": -5.981761
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Calle Felipe II, s/n",
+                "address2": "",
+                "address3": "",
+                "city": "Seville",
+                "zip_code": "41013",
+                "country": "ES",
+                "state": "SE",
+                "display_address": [
+                    "Calle Felipe II, s/n",
+                    "41013 Seville",
+                    "Spain"
+                ]
+            },
+            "phone": "+34952202498",
+            "display_phone": "+34 952 20 24 98",
+            "distance": 1759.015910194232
+        },
+        {
+            "id": "j6XH955jmH2vg_OwUaCCYA",
+            "alias": "hermandad-de-las-aguas-sevilla",
+            "name": "Hermandad de las Aguas",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hQFjKGR0AwZbxXEQ6_JXMQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hermandad-de-las-aguas-sevilla?adjust_creative=k2879mFN9gfjtT8M8xHW3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=k2879mFN9gfjtT8M8xHW3Q",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "localflavor",
+                    "title": "Local Flavor"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.3845372577041,
+                "longitude": -5.99639078926877
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Capilla del Rosario",
+                "address2": "Calle Dos de Mayo, 1",
+                "address3": "",
+                "city": "Seville",
+                "zip_code": "41001",
+                "country": "ES",
+                "state": "SE",
+                "display_address": [
+                    "Capilla del Rosario",
+                    "Calle Dos de Mayo, 1",
+                    "41001 Seville",
+                    "Spain"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 215.59697975902932
+        },
+        {
+            "id": "jouxnZfbgocGycq8Wxz9uA",
+            "alias": "plaza-de-españa-sevilla",
+            "name": "Plaza de España",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qjFpGg1ZzzCoMs6JNBsTbg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/plaza-de-espa%C3%B1a-sevilla?adjust_creative=k2879mFN9gfjtT8M8xHW3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=k2879mFN9gfjtT8M8xHW3Q",
+            "review_count": 148,
+            "categories": [
+                {
+                    "alias": "localflavor",
+                    "title": "Local Flavor"
+                },
+                {
+                    "alias": "landmarks",
+                    "title": "Landmarks & Historical Buildings"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.3770974642667,
+                "longitude": -5.98689436912537
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Plaza de España",
+                "address2": "",
+                "address3": "",
+                "city": "Seville",
+                "zip_code": "41013",
+                "country": "ES",
+                "state": "SE",
+                "display_address": [
+                    "Plaza de España",
+                    "41013 Seville",
+                    "Spain"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1031.2953863319417
+        },
+        {
+            "id": "08-uqOxJr0DnOCQxX9wFeg",
+            "alias": "antigua-abacería-de-san-lorenzo-sevilla-4",
+            "name": "Antigua Abacería de San Lorenzo",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UXmTSyaoJkOWPycHrWWKXg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/antigua-abacer%C3%ADa-de-san-lorenzo-sevilla-4?adjust_creative=k2879mFN9gfjtT8M8xHW3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=k2879mFN9gfjtT8M8xHW3Q",
+            "review_count": 15,
+            "categories": [
+                {
+                    "alias": "tapas",
+                    "title": "Tapas Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.39778,
+                "longitude": -5.9975699
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Calle Teodosio, 53",
+                "address2": "",
+                "address3": "",
+                "city": "Seville",
+                "zip_code": "41002",
+                "country": "ES",
+                "state": "SE",
+                "display_address": [
+                    "Calle Teodosio, 53",
+                    "41002 Seville",
+                    "Spain"
+                ]
+            },
+            "phone": "+34954380067",
+            "display_phone": "+34 954 38 00 67",
+            "distance": 1701.1438910129034
+        },
+        {
+            "id": "W881S-5IoszbOBne_HUuAg",
+            "alias": "maría-josé-sevilla-3",
+            "name": "María José",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/TgBexCxien3S60jLMZwFpg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mar%C3%ADa-jos%C3%A9-sevilla-3?adjust_creative=k2879mFN9gfjtT8M8xHW3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=k2879mFN9gfjtT8M8xHW3Q",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "knittingsupplies",
+                    "title": "Knitting Supplies"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.3931224,
+                "longitude": -5.9808688
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "José Laguillo, 27",
+                "address2": "",
+                "address3": "",
+                "city": "Seville",
+                "zip_code": "41003",
+                "country": "ES",
+                "state": "SE",
+                "display_address": [
+                    "José Laguillo, 27",
+                    "41003 Seville",
+                    "Spain"
+                ]
+            },
+            "phone": "+34954426117",
+            "display_phone": "+34 954 42 61 17",
+            "distance": 1795.8985711555085
+        },
+        {
+            "id": "8CMeecGpBZ3zzdrKp9UVVg",
+            "alias": "vinería-san-telmo-sevilla-2",
+            "name": "Vinería San Telmo",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EZb3URbJQwRLQlS27LhLMA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/viner%C3%ADa-san-telmo-sevilla-2?adjust_creative=k2879mFN9gfjtT8M8xHW3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=k2879mFN9gfjtT8M8xHW3Q",
+            "review_count": 118,
+            "categories": [
+                {
+                    "alias": "tapas",
+                    "title": "Tapas Bars"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3852681038048,
+                "longitude": -5.98673976812506
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Paseo de Catalina de Ribera, 4",
+                "address2": "",
+                "address3": "",
+                "city": "Seville",
+                "zip_code": "41004",
+                "country": "ES",
+                "state": "SE",
+                "display_address": [
+                    "Paseo de Catalina de Ribera, 4",
+                    "41004 Seville",
+                    "Spain"
+                ]
+            },
+            "phone": "+34954410600",
+            "display_phone": "+34 954 41 06 00",
+            "distance": 894.4352345664379
+        },
+        {
+            "id": "DCMU9YsE7deCrSik0yW8tg",
+            "alias": "tierra-de-maría-sevilla-2",
+            "name": "Tierra de María",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pXZl4eUWct2fudxjj7TQ6A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tierra-de-mar%C3%ADa-sevilla-2?adjust_creative=k2879mFN9gfjtT8M8xHW3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=k2879mFN9gfjtT8M8xHW3Q",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "media",
+                    "title": "Books, Mags, Music & Video"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 37.3816663,
+                "longitude": -6.00696981
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Calle Esperanza de Triana, 5",
+                "address2": "",
+                "address3": "",
+                "city": "Seville",
+                "zip_code": "41010",
+                "country": "ES",
+                "state": "SE",
+                "display_address": [
+                    "Calle Esperanza de Triana, 5",
+                    "41010 Seville",
+                    "Spain"
+                ]
+            },
+            "phone": "+34954343204",
+            "display_phone": "+34 954 34 32 04",
+            "distance": 940.3249574378603
+        },
+        {
+            "id": "eFxskN9U0pJAs0o6Hf2Qzw",
+            "alias": "poncio-sevilla-2",
+            "name": "Poncio",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WNS6Vl68kAE4zr7vwyTBTw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/poncio-sevilla-2?adjust_creative=k2879mFN9gfjtT8M8xHW3Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=k2879mFN9gfjtT8M8xHW3Q",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "spanish",
+                    "title": "Spanish"
+                },
+                {
+                    "alias": "tabernas",
+                    "title": "Tabernas"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.387038,
+                "longitude": -5.988261
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Carrer de Ximenez de Enciso, 33",
+                "address2": "",
+                "address3": "",
+                "city": "Seville",
+                "zip_code": "41004",
+                "country": "ES",
+                "state": "SE",
+                "display_address": [
+                    "Carrer de Ximenez de Enciso, 33",
+                    "41004 Seville",
+                    "Spain"
+                ]
+            },
+            "phone": "+34954460717",
+            "display_phone": "+34 954 46 07 17",
+            "distance": 864.1470215948085
+        }
+    ],
+    "total": 150,
+    "region": {
+        "center": {
+            "longitude": -5.99629,
+            "latitude": 37.3826
+        }
+    }
+}
